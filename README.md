@@ -9,7 +9,11 @@
     </nav>
     <img src="Picsart_25-04-12_23-14-31-032.jpg" alt="title" width="1250px" height="300px">
     <header>
-      <h2 style="color:blue";>About this website</h2>
+      <style>
+        h1{
+           color:red;
+          }
+      </style>
       <p>○ this is a website that provide information about the flight , navigatio , best institution in india ,in abroad, and all over the world .</p>
       <p>○ cost of learning can be more in some place. this website has the info about the cost of learning in diffrent parts of world and with our suggestion and with the saftey we reccomend some institution</p>
       <p>○ it is a basic website created by me so there will not be that much i done how much i could i would upgrade my skill and upgrade this website for now this is my website </p>
