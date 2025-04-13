@@ -20,7 +20,7 @@
       <p>○ at the top you can see some attachment in blue color like home , details about the flight,ect.press what you needed to see </p>
     </main  
      <footer>
-      <h2>Thanks for visting our websit</h2>
+      <h2>Thanks for visting our website</h2>
       <a href="Imageproject.html">| To navigate top |</a>
       <h6>copywrite@climed</h6> 
       <h6 style="text-align:right">date:31/04/2025</h6>
