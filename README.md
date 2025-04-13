@@ -20,10 +20,10 @@
       <p>○ it is a basic website created by me so there will not be that much i done how much i could i would upgrade my skill and upgrade this website for now this is my website </p>
     </header>
     <main>
-      .red{
+      #red{
           color:red;
           }
-      <h2 class"red">Instruction To Use The Website </h2>
+      <h2 id="red">Instruction To Use The Website </h2>
       <p>○ if you want use my website go to the top of page or click this link<a href="Imageproject.html">|Top|</a> it will navigate to the top </p>
       <p>○ at the top you can see some attachment in blue color like home , details about the flight,ect.press what you needed to see </p>
     </main  
