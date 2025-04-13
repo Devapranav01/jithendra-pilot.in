@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html>
   <head>
   </head>
   <body>
   <style>
     body{
-    background-color:red;
+    background-color: red;
       }
   </style>
     <nav>
