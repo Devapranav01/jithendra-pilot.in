@@ -28,7 +28,7 @@
       <h2 id="red">Instruction To Use The Website </h2>
       <p>○ if you want use my website go to the top of page or click this link<a href="Imageproject.html">|Top|</a> it will navigate to the top </p>
       <p>○ at the top you can see some attachment in blue color like home , details about the flight,ect.press what you needed to see </p>
-    </main  
+    </main>
      <footer>
       <h2>Thanks for Visting our website</h2>
       <a href="Imageproject.html">| To navigate top |</a>
