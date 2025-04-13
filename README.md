@@ -10,7 +10,7 @@
     <img src="Picsart_25-04-12_23-14-31-032.jpg" alt="title" width="1250px" height="300px">
     <header>
       <style>
-        h1{
+        h1 {
            color:red;
           }
       </style>
