@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style></style>
+    <style>
   </head>
   <body style="background-color:light grey";>
     <nav>
