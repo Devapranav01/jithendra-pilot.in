@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>jithendra@pilot.in</title>
   </head>
   <body style="background-color:light grey";>
     <nav>
