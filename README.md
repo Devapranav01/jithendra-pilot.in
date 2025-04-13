@@ -5,7 +5,7 @@
   <body>
   <style>
     body{
-    background-color: lightgrey;
+    background-color: light grey;
       }
   </style>
     <nav>
