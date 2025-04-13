@@ -4,8 +4,8 @@
   </head>
   <body>
   <style>
-    background-color{
-      color:red;
+    body{
+    background-color:red;
       }
   </style>
     <nav>
