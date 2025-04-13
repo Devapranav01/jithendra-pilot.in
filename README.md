@@ -2,7 +2,12 @@
 <html>
   <head>
   </head>
-  <body style="background-color:light grey";>
+  <body>
+  <style>
+    background-color{
+      color:red;
+      }
+  </style>
     <nav>
       <a href="Imageproject.html">Home |</a>
       <a href="flight.html">Flight details |</a>
