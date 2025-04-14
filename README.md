@@ -20,9 +20,18 @@
           }
       </style>
       <h1>About website </h1>
-      <p>○ this is a website that provide information about the flight , navigatio , best institution in india ,in abroad, and all over the world .</p>
+      <p>○ Fly high, dream big. Join us as we explore the skies and share the journey of pilots from around the world.</p>
+      <p>○ We are passionate about aviation. This website is dedicated to those who dream of flying. Learn about how pilots are trained, what they experience in the cockpit, and what it takes to become one.</p>
+      <p>○ this is a website that provide information about the flight , navigation, best institution in india ,in abroad, and all over the world .</p>
       <p>○ cost of learning can be more in some place. this website has the info about the cost of learning in diffrent parts of world and with our suggestion and with the saftey we reccomend some institution</p>
       <p>○ it is a basic website created by me so there will not be that much i done how much i could i would upgrade my skill and upgrade this website for now this is my website </p>
+      <h2>What We Offer</h2>
+<ul>
+  <li>Information about pilot training</li>
+  <li>Step-by-step guide to becoming a pilot</li>
+  <li>News and updates about aviation</li>
+  <li>Inspiring pilot stories</li>
+</u
     </header>
     <main>
       <style>
