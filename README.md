@@ -46,7 +46,7 @@
      <footer>
        <h2>Contact Us through</h2>
        <ul>
-      <li>email:<a href="devapranave3@gmail.com">devapranave3@gmail.com</a></li>  
+      <li>email:"devapranave3@gmail.com"</li>  
       <li>Contact:+91 8778041429 </li>
        </ul>
       <h2>Thanks for Visting our website</h2>
