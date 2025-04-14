@@ -31,7 +31,7 @@
   <li>Step-by-step guide to becoming a pilot</li>
   <li>News and updates about aviation</li>
   <li>Inspiring pilot stories</li>
-</u
+</ul>
     </header>
     <main>
       <style>
@@ -44,6 +44,11 @@
       <p>○ at the top you can see some attachment in blue color like home , details about the flight,ect.press what you needed to see </p>
     </main>
      <footer>
+       <h2>Contact Us through</h2>
+       <ul>
+      <li>email:<a href="devapranave3@gmail.com">devapranave3@gmail.com</a></li>  
+      <li>Contact:+91 8778041429 </li>
+       </ul>
       <h2>Thanks for Visting our website</h2>
       <a href="Imageproject.html">| To navigate top |</a>
       <h6>copywrite@climed</h6> 
